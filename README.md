@@ -13,8 +13,8 @@ cmq消息队列：采用腾讯云消息队列（Cloud Message Queue，CMQ）是�
 **maven**
 ```aidl
       <dependency>
-            <groupId>com.uoko.framework</groupId>
-            <artifactId>uoko-framework-cmq</artifactId>
+            <groupId>com.4lun.framework</groupId>
+            <artifactId>4lun-framework-cmq</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 ```
